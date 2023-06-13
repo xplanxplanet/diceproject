@@ -25,5 +25,5 @@ function rollTheDice() {
         document.querySelector("h1").innerHTML= player2 + " wins";
     }
 
-    }, 1000);
+    }, 500);
 }
